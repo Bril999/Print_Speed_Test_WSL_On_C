@@ -13,6 +13,7 @@
  3) Total number of characters entered (correct + incorrect)
  4) The average speed of typing characters in the game, measured in the number of characters per minute
  5) The average word typing speed in the game, measured in the number of words per minute
+
 The "ncurses" library is required for the program to work
 You need to run the program through the terminal WSL
 The input must be of the form - ./ncurses_example.elf medium 50 10
